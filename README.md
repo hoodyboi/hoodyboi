@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hoodyboi
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Backend
+- 🌱 I’m currently learning Java and Spring
+
 
 <!---
 hoodyboi/hoodyboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
